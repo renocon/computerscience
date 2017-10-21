@@ -8,8 +8,8 @@ from azure.storage.blob import AppendBlobService
 
 # Configure account name with the Azure Storage Account Name and the account Key from Storage Explorer
 append_blob_service = AppendBlobService(
-	account_name='storage_account_name', 
-	account_key='storage_account_key')
+	account_name='scalinglab1', 
+	account_key='dzk6lVRNytQXEPJ8n4QcecmQgwe51hZG+tGv+m/rJJt+axknXWJxt9jm3TQcBELugoHFPftvMC2MOaFh5iiSsQ==')
 
 
 
